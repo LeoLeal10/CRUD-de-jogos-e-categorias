@@ -1,0 +1,9 @@
+C:\Users\Leonardo\OneDrive\Área de Trabalho\FTT\EC5\Linguagem de Programação I\Exercicios\13.1 - jogos - lista jogos\Jogos 13.1\Jogos 13.1\obj\Debug\netcoreapp3.1\Jogos 13.1.csproj.AssemblyReference.cache
+C:\Users\Leonardo\OneDrive\Área de Trabalho\FTT\EC5\Linguagem de Programação I\Exercicios\13.1 - jogos - lista jogos\Jogos 13.1\Jogos 13.1\obj\Debug\netcoreapp3.1\Jogos 13.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\OneDrive\Área de Trabalho\FTT\EC5\Linguagem de Programação I\Exercicios\13.1 - jogos - lista jogos\Jogos 13.1\Jogos 13.1\obj\Debug\netcoreapp3.1\Jogos 13.1.AssemblyInfoInputs.cache
+C:\Users\Leonardo\OneDrive\Área de Trabalho\FTT\EC5\Linguagem de Programação I\Exercicios\13.1 - jogos - lista jogos\Jogos 13.1\Jogos 13.1\obj\Debug\netcoreapp3.1\Jogos 13.1.AssemblyInfo.cs
+C:\Users\Leonardo\OneDrive\Área de Trabalho\FTT\EC5\Linguagem de Programação I\Exercicios\13.1 - jogos - lista jogos\Jogos 13.1\Jogos 13.1\obj\Debug\netcoreapp3.1\Jogos 13.1.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\OneDrive\Área de Trabalho\FTT\EC5\Linguagem de Programação I\Exercicios\13.1 - jogos - lista jogos\Jogos 13.1\Jogos 13.1\obj\Debug\netcoreapp3.1\Jogos 13.1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Leonardo\OneDrive\Área de Trabalho\FTT\EC5\Linguagem de Programação I\Exercicios\13.1 - jogos - lista jogos\Jogos 13.1\Jogos 13.1\obj\Debug\netcoreapp3.1\Jogos 13.1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Leonardo\OneDrive\Área de Trabalho\FTT\EC5\Linguagem de Programação I\Exercicios\13.1 - jogos - lista jogos\Jogos 13.1\Jogos 13.1\obj\Debug\netcoreapp3.1\Jogos 13.1.RazorAssemblyInfo.cache
+C:\Users\Leonardo\OneDrive\Área de Trabalho\FTT\EC5\Linguagem de Programação I\Exercicios\13.1 - jogos - lista jogos\Jogos 13.1\Jogos 13.1\obj\Debug\netcoreapp3.1\Jogos 13.1.RazorAssemblyInfo.cs

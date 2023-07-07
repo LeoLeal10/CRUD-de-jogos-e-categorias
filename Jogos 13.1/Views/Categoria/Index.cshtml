@@ -1,0 +1,42 @@
+﻿@using Jogos_26._1.Models
+@model List<CategoriaViewModel>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Lista de categorias</h2>
+
+<a href="/categoria/create" class="btn btn-primary">Novo Registro</a>
+<br />
+<br />
+
+<table class="table table-responsive">
+    <tr>
+        <th>Ações</th>
+        <th>Id</th>
+        <th>Descrição</th>
+    </tr>
+
+    @foreach (CategoriaViewModel c in Model)
+    {
+        <tr>
+            <td>
+                <a href="/categoria/Edit?id=@c.id" class="btn btn-info">Editar</a>
+                <br>
+                <br>
+                <a href="javascript:apagarCategoria(@c.id)" class="btn btn-danger">Apagar</a>
+            </td>
+            
+            <td>@c.id</td>
+            <td>@c.descricao</td>
+        </tr>
+    }
+</table>
+
+<script>
+ function apagarCategoria(id)
+ {
+ if (confirm('Confirma a exclusão do registro?'))
+ location.href = 'categoria/Delete?id=' + id;
+ }
+</script>

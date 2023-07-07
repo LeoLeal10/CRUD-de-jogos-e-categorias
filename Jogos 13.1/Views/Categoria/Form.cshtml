@@ -1,0 +1,32 @@
+﻿@using Jogos_26._1.Models
+@model CategoriaViewModel
+@{
+ Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>Cadastro de Categoria</h2>
+
+<form action="Save" method="post">
+    <input type="hidden" name="Operacao" value="@ViewBag.Operacao" />
+
+    <label for="id" class="control-label">ID</label>
+
+    @if (ViewBag.Operacao == "I")
+    {
+        <input type="number" Name="id" value="@Model.id" class="form-control" />
+    }
+    else
+    {
+        <input type="number" Name="id" value="@Model.id" class="form-control disabled" readonly />
+    }
+    <span asp-validation-for="id" class="text-danger"></span>
+
+    <br />
+
+    <label for="descricao" class="control-label">Descrição</label>
+    <input type="text" Name="descricao" value="@Model.descricao" class="form-control" />
+    <span asp-validation-for="descricao" class="text-danger"></span>
+    <br />
+
+    <input type="submit" value="Salvar dados" class="btn btn-success" />
+    <br />
+</form>
