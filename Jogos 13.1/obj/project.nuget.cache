@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jTmxH3XuufF3k++GKqPYJUPthyic58q3D4/auR8tQSwug3AIg7P4xEH6ul+CTxGSJ5tdqHuG2uvlGs0IYMvHbA==",
+  "dgSpecHash": "vv9xaNzGkAssXDQfWt+2nef2NeYRrJKqLp3du1N3rgtga8/swl0L8N3OMaPvmglJSrusXtsm8hEX920VedDWsw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Leonardo\\Desktop\\Jogos\\CRUD-de-jogos-e-categorias\\Jogos 13.1\\Jogos 28.1.csproj",
+  "projectFilePath": "C:\\Users\\Leonardo\\Desktop\\Portifólio\\CRUD-de-jogos-e-categorias\\Jogos 13.1\\Jogos 28.1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Leonardo\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\3.1.23\\microsoft.aspnetcore.mvc.razor.extensions.3.1.23.nupkg.sha512",
     "C:\\Users\\Leonardo\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\3.1.23\\microsoft.aspnetcore.mvc.razor.runtimecompilation.3.1.23.nupkg.sha512",

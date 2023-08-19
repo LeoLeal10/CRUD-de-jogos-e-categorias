@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Leonardo\\Desktop\\Jogos\\CRUD-de-jogos-e-categorias\\Jogos 13.1\\Jogos 28.1.csproj": {}
+    "C:\\Users\\Leonardo\\Desktop\\Portifólio\\CRUD-de-jogos-e-categorias\\Jogos 13.1\\Jogos 28.1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Leonardo\\Desktop\\Jogos\\CRUD-de-jogos-e-categorias\\Jogos 13.1\\Jogos 28.1.csproj": {
+    "C:\\Users\\Leonardo\\Desktop\\Portifólio\\CRUD-de-jogos-e-categorias\\Jogos 13.1\\Jogos 28.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Leonardo\\Desktop\\Jogos\\CRUD-de-jogos-e-categorias\\Jogos 13.1\\Jogos 28.1.csproj",
+        "projectUniqueName": "C:\\Users\\Leonardo\\Desktop\\Portifólio\\CRUD-de-jogos-e-categorias\\Jogos 13.1\\Jogos 28.1.csproj",
         "projectName": "Jogos 28.1",
-        "projectPath": "C:\\Users\\Leonardo\\Desktop\\Jogos\\CRUD-de-jogos-e-categorias\\Jogos 13.1\\Jogos 28.1.csproj",
+        "projectPath": "C:\\Users\\Leonardo\\Desktop\\Portifólio\\CRUD-de-jogos-e-categorias\\Jogos 13.1\\Jogos 28.1.csproj",
         "packagesPath": "C:\\Users\\Leonardo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Leonardo\\Desktop\\Jogos\\CRUD-de-jogos-e-categorias\\Jogos 13.1\\obj\\",
+        "outputPath": "C:\\Users\\Leonardo\\Desktop\\Portifólio\\CRUD-de-jogos-e-categorias\\Jogos 13.1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Leonardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
